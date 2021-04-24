@@ -126,7 +126,7 @@ class _SplashScreenState extends State<SplashScreen>
                 ],
               ),
               Opacity(
-                opacity: 0.3,
+                opacity: 0.2,
                 child: Align(
                   alignment: Alignment.center,
                   child: PhysicalModel(
