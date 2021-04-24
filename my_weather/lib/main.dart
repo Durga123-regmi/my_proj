@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:my_whether/loadingWIdget.dart';
 import 'package:my_whether/splashScreen.dart';
 
-import 'myWheatherPage.dart';
+import 'myWeatherPage.dart';
 
 void main() {
   runApp(MyApp());
